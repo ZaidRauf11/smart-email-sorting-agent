@@ -97,5 +97,11 @@ Then open in browser: [http://localhost:8501](http://localhost:8501)
 
 ---
 
+📸 App Preview
+
+<img width="846" height="859" alt="3" src="https://github.com/user-attachments/assets/09bcda1d-371f-4036-ad67-a40430d15f65" />
+
+---
+
 ✨ **SmartInbox AI** makes email organization easy, fast, and intelligent!
 
